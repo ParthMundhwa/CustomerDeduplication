@@ -1,4 +1,4 @@
-# 🧼 Customer Deduplication (Scala + Spark)
+# Customer Deduplication 
 
 A production-style template for **customer identity resolution and deduplication** using **Apache Spark (Scala)**.
 
