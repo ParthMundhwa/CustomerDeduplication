@@ -1,0 +1,17 @@
+# sbt
+target/
+project/target/
+project/project/
+.metals/
+.bloop/
+.idea/
+.vscode/
+.DS_Store
+
+# logs
+logs/
+*.log
+
+# data outputs
+data/curated/*
+!data/curated/.keep
