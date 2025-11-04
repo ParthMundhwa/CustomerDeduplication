@@ -49,9 +49,6 @@ Tune thresholds, blocking keys, and survivorship priorities in:
 src/main/resources/rules/survivorship.yaml
 ```
 
-## 📌 Notes
-- For true connected components clustering, add GraphFrames (not included here) or run a transitive closure job.
-- Replace sample data with your feeds; wire into Airflow or Spark on Kubernetes for production.
 
 ## 🪪 License
 MIT © 2025 Parth Mundhwa
